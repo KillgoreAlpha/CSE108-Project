@@ -1,2 +1,3 @@
 # CSE108-Project
-Group project for UC Merced's Full-Stack Web Development course
+
+Final Project for Full Stack Web Development Course @ UCM
